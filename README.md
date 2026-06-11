@@ -7,7 +7,7 @@
 
 <samp>I build production-grade web platforms and cross-platform mobile applications that solve real problems for real users.</samp>
 
-<br/><br/>
+
 
   <!-- Quick Links -->
 
@@ -16,10 +16,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithumairoffical@gmail.com)
 [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@umair_amjad_ali)
 
-  <br/>
-
+ 
   <img src="https://komarev.com/ghpvc/?username=Umair-Amjad-Ali&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 ---
