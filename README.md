@@ -147,8 +147,6 @@ const umair = {
 
 </div>
 
-> 💡 **Note:** The contribution count above only reflects **public** activity. To include private contributions, go to your GitHub **Settings → Profile → Contribution Settings** and check **"Include private contributions on my profile"**.
-
 ---
 
 ## 🏆 Featured Projects
