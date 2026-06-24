@@ -168,7 +168,7 @@ const umair = {
 | --- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **[Dammam Home Service](https://www.homeservicepro.online/en)** | Multi-national booking platform — 8-step funnel, admin dashboard, technician tracking | Next.js 15 · Firebase · TypeScript · Maps | [![Live](https://img.shields.io/badge/Live-Visit-10b981?style=flat-square&logo=googlechrome)](https://www.homeservicepro.online/en)     |
 | 2   | **[LUXE GLOW](https://salons-website-wheat.vercel.app/)**       | Premium white-label salon platform — config-driven theming, 5-step booking engine     | Next.js · Framer Motion · TypeScript      | [![Demo](https://img.shields.io/badge/Demo-Visit-7c3aed?style=flat-square&logo=googlechrome)](https://salons-website-wheat.vercel.app/) |
-| 3   | **[Portfolio](https://www.umairamjad.site)**                    | Interactive developer portfolio — 3D showcases, GitHub stats, terminal UI             | React · Vite · Framer Motion · Three.js   | [![Live](https://img.shields.io/badge/Live-Visit-10b981?style=flat-square&logo=googlechrome)](https://www.umairamjad.site)              |
+| 3   | **[Portfolio](https://www.umairamjad.site)**                    | Interactive developer portfolio — 3D showcases, GitHub stats, terminal UI             | React · Vite · Framer Motion    | [![Live](https://img.shields.io/badge/Live-Visit-10b981?style=flat-square&logo=googlechrome)](https://www.umairamjad.site)              |
 
 ### 🤖 AI & Machine Learning (Python)
 
