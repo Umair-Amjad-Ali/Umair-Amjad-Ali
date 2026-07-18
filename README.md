@@ -23,7 +23,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 ```js
 const umair = {
@@ -119,31 +119,23 @@ const umair = {
 
 </div>
 
-<br/>
-
-<div align="center">
-
-  <!-- Trophy showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Umair-Amjad-Ali&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
 
 ## 🏆 Featured Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Nutrea+%C2%B7+Battery+Eye+%C2%B7+ShareMate+%C2%B7+ModivFit+%C2%B7+TheNotYou" alt="Projects Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Nutrea+%C2%B7+Battery+Eye+%C2%B7+ShareMate+%C2%B7+Borkow+%C2%B7+ModivFit" alt="Projects Typing SVG" />
 
 ### 📱 Mobile Applications (Flutter)
 
 | #   | Project                                                                            | What It Does                                                                      | Tech Stack                           | Status                                                                                                                                                                   |
 | --- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **[Nutrea](https://apps.apple.com/pk/app/nutrea-ai-calorie-tracker/id6758021432)** | AI calorie tracker — scan food with GPT-4o Vision, get instant nutrition data     | Flutter · Firebase · GPT-4o Vision   | [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/pk/app/nutrea-ai-calorie-tracker/id6758021432) |
-| 2   | **[Battery Eye](https://apps.apple.com/pk/app/battery-eye-app/id6757906597)**      | Enterprise sales checkout & real-time inventory management for field technicians  | Flutter · Firebase · Dart            | [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/pk/app/battery-eye-app/id6757906597)           |
-| 3   | **Battery Eye Admin**                                                              | Multi-tenant admin panel — company management, workforce tracking, asset security | Flutter · Firebase · GetX            | 🔒 Enterprise                                                                                                                                                            |
-| 4   | **ModivFit**                                                                       | Gamified social fitness — challenges, leaderboards, streaks, real-time chat       | Flutter · Firebase · Laravel · FCM   | 🔒 Private                                                                                                                                                               |
-| 5   | **ShareMate**                                                                      | Smart group expense splitter with debt settlement algorithms and financial charts | Flutter · Firebase · Riverpod        | 🔒 Private                                                                                                                                                               |
-| 6   | **[TheNotYou](https://github.com/Umair-Amjad-Ali/ai-emotion-app)**                 | Cognitive therapy companion — 9 therapeutic chambers for mental wellness          | Flutter · Firebase · Laravel · MySQL | [![GitHub](https://img.shields.io/badge/Code-Open-181717?style=flat-square&logo=github)](https://github.com/Umair-Amjad-Ali/ai-emotion-app)                              |
+| 2   | **[Battery Eye](https://apps.apple.com/pk/app/battery-eye-app/id6757906597)**      | Enterprise sales checkout & real-time inventory management for field technicians  | Flutter · Firebase · Dart            | [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/pk/app/battery-eye-app/id6757906597)<br>[![Google Play](https://img.shields.io/badge/Google_Play-Live-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.enigmanex.battery_eye) |
+| 3   | **[Borkow](https://apps.apple.com/pk/app/borkow/id6761169964)**                    | Premium social discovery — swipe deck, location passporting, and mutual matching  | Flutter · Supabase · TypeScript      | [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/pk/app/borkow/id6761169964)<br>[![Google Play](https://img.shields.io/badge/Google_Play-Live-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.borkow.app) |
+| 4   | **Battery Eye Admin**                                                              | Multi-tenant admin panel — company management, workforce tracking, asset security | Flutter · Firebase · GetX            | 🔒 Enterprise                                                                                                                                                            |
+| 5   | **ModivFit**                                                                       | Gamified social fitness — challenges, leaderboards, streaks, real-time chat       | Flutter · Firebase · Laravel · FCM   | 🔒 Private                                                                                                                                                               |
+| 6   | **ShareMate**                                                                      | Smart group expense splitter with debt settlement algorithms and financial charts | Flutter · Supabase · Riverpod        | 🔒 Private                                                                                                                                                               |
+| 7   | **[TheNotYou](https://github.com/Umair-Amjad-Ali/ai-emotion-app)**                 | Cognitive therapy companion — 9 therapeutic chambers for mental wellness          | Flutter · Firebase · Laravel · MySQL | [![GitHub](https://img.shields.io/badge/Code-Open-181717?style=flat-square&logo=github)](https://github.com/Umair-Amjad-Ali/ai-emotion-app)                              |
 
 ### 🌐 Web Platforms (React / Next.js)
 
