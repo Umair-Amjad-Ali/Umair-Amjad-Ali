@@ -34,8 +34,8 @@ const umair = {
   currentRole: "Software Engineer @ SynticAI",
   portfolio: "https://www.umairamjad.site",
   specialties: [
-    "Full-Stack Web Development",
     "Cross-Platform Mobile Apps",
+    "Full-Stack Web Development",
     "AI & Machine Learning Integration",
     "Cloud Architecture & Deployment",
   ],
