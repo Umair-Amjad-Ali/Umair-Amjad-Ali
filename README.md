@@ -30,7 +30,7 @@ const umair = {
   name: "Umair Amjad",
   location: "Lahore, Punjab, Pakistan",
   education: "BS Software Engineering — IUB (3.79/4.0 GPA)",
-  experience: "2.5+ years building production software",
+  experience: "3+ years building production software",
   currentRole: "Software Engineer @ SynticAI",
   portfolio: "https://www.umairamjad.site",
   specialties: [
