@@ -35,7 +35,7 @@ const umair = {
   portfolio: "https://www.umairamjad.site",
   specialties: [
     "Cross-Platform Mobile Apps",
-    "Full-Stack Web Development",
+    "Full-Stack Web Apps",
     "AI & Machine Learning Integration",
     "Cloud Architecture & Deployment",
   ],
