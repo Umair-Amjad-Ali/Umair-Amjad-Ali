@@ -45,7 +45,7 @@ const umair = {
 ```
 
 - 🔭 Currently building **Enterprise mobile apps** and **cloud-powered web platforms** at SynticAI
-- 📱 Apps published on the **Apple App Store** and **Google Play Store**
+- 📱 Apps published on the **Apple App Store** and **Google Play Console**
 - 🧠 Experienced with **AI integration** GPT-4o Vision, TensorFlow, CNN, Computer Vision
 - 🌍 Delivering **end-to-end software solutions** for clients across multiple countries
 - 🏆 Built an **AI diagnostic system** achieving **98% accuracy** on medical MRI analysis
