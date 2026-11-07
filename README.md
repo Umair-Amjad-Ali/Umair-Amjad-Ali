@@ -31,7 +31,7 @@ const umair = {
   location: "Lahore, Punjab, Pakistan",
   education: "BS Software Engineering — IUB (3.79/4.0 GPA)",
   experience: "3+ years building Software Products",
-  currentRole: "Software Engineer @ SynticAI",
+  currentRole: "Software Engineer @ QTO DEV Lahore",
   portfolio: "https://www.umairamjad.site",
   specialties: [
     "Cross-Platform Mobile Apps",
