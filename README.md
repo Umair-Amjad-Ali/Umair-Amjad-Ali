@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-umairamjad.site-7c3aed?style=for-the-badge)](https://www.umairamjad.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-amjad-b3397a254/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithumairoffical@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairamjad.creates.app@gmail.com)
 [![Threads](https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@umair_amjad_ali)
 
 <img src="https://komarev.com/ghpvc/?username=Umair-Amjad-Ali&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -189,7 +189,7 @@ const umair = {
 
 Whether you need a **mobile app**, a **web platform**, or an **AI-powered solution** — I'm here to help.
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:codewithumairoffical@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:umiaramjad.creates.appaaaaaaaaaaas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-amjad-b3397a254/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.umairamjad.site)
 
